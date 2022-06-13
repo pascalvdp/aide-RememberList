@@ -11,18 +11,18 @@
         android:orientation="horizontal" >
 		<SearchView
 			android:id="@+id/edittext" 
-			android:layout_width="380dp"
+			android:layout_width="500dp"
 			android:layout_height="wrap_content" />
 		<Button
 			android:id="@+id/savebutton"
 			android:text="SAVE"
-			android:layout_marginLeft="10dp"
+			android:layout_marginLeft="100dp"
 			android:layout_width="wrap_content" 
 			android:layout_height="wrap_content" />
 		<Button
 			android:id="@+id/deletelistbutton"
 			android:text="DELETE LIST"
-			android:layout_marginLeft="10dp"
+			android:layout_marginLeft="80dp"
 			android:layout_width="wrap_content" 
 			android:layout_height="wrap_content" />
 	</LinearLayout>

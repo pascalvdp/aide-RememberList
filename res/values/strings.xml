@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="hello">Hello World, MainActivity!</string>
     <string name="app_name">RememberList</string>
+	<string name="search_label">text</string>
+	<string name="settings_description">rememberlist</string>
+
+    <!-- The hint text that appears in the search box. -->
+    <string name="search_hint">Zoek in lijst</string>
 
 </resources>
